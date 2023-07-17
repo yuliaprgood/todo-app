@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "email": "user1@gmail.com",
+      "password": "$2a$10$4TC8p4GaALFQ6NCRXOLCdu0KqJWvYD43h81vV2Z6JT71siZqeHq5e",
+      "role": "User",
+      "id": 1
+    },
+    {
+      "email": "user2@gmail.com",
+      "password": "$2a$10$6K9KlN5a3N5CNFB0qccSW.8hdygqb.Osgc9tYmAJuhW9ygo4.h5wS",
+      "role": "Admin",
+      "id": 2
+    }
+  ],
+  "todos": [
+    {
+      "title": "dfkfgerogjrjgfrjgjgjgjgjj",
+      "description": "",
+      "completed": true,
+      "active": true,
+      "favorite": false,
+      "tags": [
+        "rfrf"
+      ],
+      "id": 1250,
+      "userId": 1
+    },
+    {
+      "title": "fkfrrkfkffk",
+      "description": "",
+      "completed": true,
+      "active": true,
+      "tags": [],
+      "userId": 2,
+      "id": 1273
+    },
+    {
+      "title": "dfghjkl;lkjuytrtyuio",
+      "description": "",
+      "completed": true,
+      "active": true,
+      "tags": [],
+      "userId": 1,
+      "id": 1274
+    }
+  ]
+}
